@@ -7,3 +7,5 @@ The app consists of two pages: one to view and add contacts and one to view and 
 
 I worked with stateful and stateless functional React components using hooks. 
 
+
+![Untitled](https://user-images.githubusercontent.com/75547425/161865324-4f69157e-da5b-4fd8-8a37-d63794acf7e8.jpg)
